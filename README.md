@@ -1,2 +1,1 @@
- ## ![Screenshot](ItStep.png) This repository contains solutions for lab tasks.
-## Replenished from time to time.
+ # ![Screenshot](ItStep.png) This repository contains solutions for ItStep lab tasks. Replenished from time to time.
