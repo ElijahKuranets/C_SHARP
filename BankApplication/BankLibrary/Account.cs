@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BankLibrary
 {
+    /// <summary>
+    /// abstract class comment trololo
+    /// </summary>
     public abstract class Account : IAccount
     {
         //Событие, возникающее при выводе денег
