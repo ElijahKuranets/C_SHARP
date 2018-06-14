@@ -14,7 +14,7 @@ namespace BankApplication
     /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Bank<Account> bank = new Bank<Account>("ЮнитБанк");
+            Bank<Account> bank = new Bank<Account>("ИЛЬЯБАНКЭЭЭ");
             bool alive = true;
             while (alive)
             {
