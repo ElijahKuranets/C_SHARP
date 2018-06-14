@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 namespace BankApplication
 {
     class Program
-    {
+    {/// <summary>
+    /// Some commentary
+    /// </summary>
+    /// <param name="args"></param>
         static void Main(string[] args)
         {
             Bank<Account> bank = new Bank<Account>("ЮнитБанк");
