@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace BankLibrary
 {
+    /// <summary>
+    /// Olololo
+    ///Trololo
+    /// </summary>
     public class DepositAccount : Account
     {
         public DepositAccount(decimal sum, int percentage): base(sum, percentage)
